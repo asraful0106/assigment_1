@@ -7,3 +7,78 @@ h1{
 .ornage_color{
     color: orange;
 }
+.button_degine{
+    background-image: linear-gradient(orange, tomato);
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    color: white;
+}
+.flexx{
+    display: flex;
+}
+.half_width{
+    width: 50%;
+    margin-top: 20px;
+}
+.half_width img {
+    width: 40%;
+}
+.posi {
+    text-align: center;
+}
+.illustrators_1 {
+    margin-left: 20px;
+    background-color: rgba(174, 212, 243, 0.253);
+    border-radius: 20px;
+    padding: 30px;
+}
+.illustrators_2 {
+    margin-left: 20px;
+    background-color: rgba(241, 174, 243, 0.219);
+    border-radius: 20px;
+    padding: 30px;
+}
+.illustrators_3 {
+    margin-left: 20px;
+    background-color: rgba(242, 243, 174, 0.363);
+    border-radius: 20px;
+    padding: 30px;
+    width: 1200px;
+}
+.extra_margin{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+#img_posi {
+    margin-left: 300px;
+    margin-top: 80px;
+}
+#div_posi1{
+    margin-top: 120px;
+    width: 800px;
+}
+#div_posi2{
+    margin-top: 120px;
+    width: 800px;
+    margin-left: 300px;
+}
+#img_posi1 {
+    margin-left: 150px;
+    margin-top: 60px;
+}
+.red_color {
+    color: rgb(228, 56, 56);
+}
+.white{
+    color: white;
+}
+#black_section{
+    padding-top: 80px;
+    background-color: black;
+}
+#footer_style {
+    color: whitesmoke;
+}
