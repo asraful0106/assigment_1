@@ -7,6 +7,10 @@ h1{
 .ornage_color{
     color: orange;
 }
+#border_h1{
+    border-left: 4px solid;
+    border-color: rgba(255, 81, 0, 0.89);
+}
 .button_degine{
     background-image: linear-gradient(orange, tomato);
     border: none;
