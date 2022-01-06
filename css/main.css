@@ -27,6 +27,9 @@ h1{
 .posi {
     text-align: center;
 }
+#st_margin {
+    margin-left: 300px;
+}
 .illustrators_1 {
     margin-left: 20px;
     background-color: rgba(174, 212, 243, 0.253);
@@ -47,7 +50,7 @@ h1{
     width: 1200px;
 }
 .extra_margin{
-    margin-left: 120px;
+    margin-left: 300px;
     margin-right: 120px;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -81,4 +84,28 @@ h1{
 }
 #footer_style {
     color: whitesmoke;
+}
+.green_color {
+    color: rgb(76, 228, 76);
+}
+#submit_dec {
+    margin-top: 9px;
+}
+#from_degine {
+    background-color: rgba(174, 212, 243, 0.253);
+    border-radius: 20px;
+    margin-right: 600px;
+    margin-left: 150px;
+    margin-top: 200px;
+    margin-bottom: 300px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+#div4 {
+    margin-left: 300px;
+    background-color: rgba(174, 215, 243, 0.555);
+    border-radius: 20px;
+    margin-bottom: 350px;
+    margin-top: 100px;
+    padding-left: 30px;
 }
